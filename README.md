@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arnab Mohanta
-- 👀 I’m interested in game and app development.
+- 👀 I’m interested in web and app development.
 - 🌱 I’m currently learning C++ Programming Language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,
