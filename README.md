@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning C++ Programming Language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me,
-- Email:  arnabmohanta70@gmail.com.
-- LinkedIn: https://www.linkedin.com/in/arnab-mohanta-76850828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- 😄 Pronouns: He/Him
+- Email:  arnabmohanta70@gmail.com
+- LinkedIn: https://www.linkedin.com/in/arnab-mohanta-76850828b/
 - ⚡ Fun fact: ...
 
 <!---
